@@ -24,8 +24,8 @@
   cursor: pointer;
 }
 .group {
-  border: 1px solid #ffffff;
-  color: #ffffff;
+  border: 1px dashed #20201e;
+  border-radius: 5px;
   display: flex;
   flex-wrap: wrap;
   margin-bottom: 20px;
